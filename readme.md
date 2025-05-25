@@ -1,9 +1,8 @@
-# Open-Source Todo-app
+# tkinter_exp
 
 
 
-The following repo contains code for a to-do app in tkinter, and u are all welcome to add your features into my to-do app, make sure they adhere to the title(todo app).
-
+The following repo contains code of all the stuff i learned while exploring tkinter.
 ## Authors
 
 - [@Sanj-bot](https://www.github.com/Sanj-bot)
